@@ -1,0 +1,11 @@
+{
+  "address": "5tNAc2123L2GQkkAdocJ5QFtxMxHqNYBZAZkdXv3XDa3",
+  "symbol": "ORBT",
+  "name": "Orbital",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmYq69qTr9yfSqQQKCXEE1PwERWinTKSi5wQj5gTbw16AJ",
+  "tags": ["defi"],
+  "extensions": {
+    "website": "http://www.orbital-official.com"
+  }
+}
